@@ -3,7 +3,8 @@
 ## 🚀 AI/ML & Data Science | Cloud & DevOps Engineer | AWS • GCP • Azure • Kubernetes • Terraform • Python  
 
 📧 **Email:** mirzaowais033@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/mirza-mohammed-owais-baig  
+
+🔗 **[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirza-mohammed-owais-baig):** https://www.linkedin.com/in/mirza-mohammed-owais-baig  
 
 ---
 
@@ -19,7 +20,6 @@ I enjoy building **scalable cloud infrastructure, automation workflows, and inte
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,html,css,tensorflow,opencv&theme=dark" />
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" height="55"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/seaborn.svg" height="55"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" height="55"/>
 </p>
 
@@ -28,11 +28,7 @@ I enjoy building **scalable cloud infrastructure, automation workflows, and inte
 ## 🗄️ Databases & BI Tools  
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftsqlserver.svg" height="55"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" height="55"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" height="55"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftexcel.svg" height="55"/>
-</p>
+ 
 
 ---
 
@@ -43,13 +39,14 @@ I enjoy building **scalable cloud infrastructure, automation workflows, and inte
 
 ---
 
-# 📊 GitHub Stats  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mirzaowais-333&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzaowais-333&layout=compact&theme=tokyonight" height="180"/>
-</p>
+<!-- Snake Game Repo View -->
 
----
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
+
 
 # 🔥 GitHub Streak Stats  
 <p align="center">
@@ -72,10 +69,6 @@ I enjoy building **scalable cloud infrastructure, automation workflows, and inte
 
 ---
 
-# 🐍 Contribution Snake Animation  
-![Snake animation](https://github.com/mirzaowais-333/mirzaowais-333/blob/output/github-contribution-grid-snake.svg)
-
----
 
 # 🚀 Professional DevOps & AI Projects  
 
