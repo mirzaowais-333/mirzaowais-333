@@ -1,3 +1,10 @@
+# Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+</div>
+
+
+
 # 👋 Hi, I'm Mirza Mohammed Owais Baig  
 
 ## 🚀 AI/ML & Data Science | Cloud & DevOps Engineer | AWS • GCP • Azure • Kubernetes • Terraform • Python  
@@ -6,12 +13,15 @@
 
 🔗 **[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirza-mohammed-owais-baig):** https://www.linkedin.com/in/mirza-mohammed-owais-baig  
 
+   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+
 ---
 
 # 👨‍💻 About Me  
 I am an **AI/ML and Data Science enthusiast with strong Cloud and DevOps engineering skills**.  
 I work with Linux, Python, AWS, GCP, Azure, Docker, Kubernetes, Terraform, and CI/CD pipelines.  
 I enjoy building **scalable cloud infrastructure, automation workflows, and intelligent AI-driven systems**.
+
 
 ---
 # 🧠  Skills & Technologies
@@ -28,13 +38,14 @@ I enjoy building **scalable cloud infrastructure, automation workflows, and inte
 ## 🗄️ Databases & BI Tools  
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
- 
+ 	<img title="Tableau" alt="Tableau" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/tableau.svg" width="200" style="vertical-align:down; margin:4px"/>
+
 
 ---
 
 ## ☁️ Cloud, DevOps & Monitoring  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,grafana,terraform,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,grafana,terraform,linux&theme=dark" /> 
 </p>
 
 ---
